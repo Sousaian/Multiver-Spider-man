@@ -1,4 +1,4 @@
-# 🕸️ Multiver Spider-man  
+# 🕸️ Multiverso Spider-man  
 
 **Multiver Spider-man** é um projeto inspirado no universo dos heróis e no conceito de multiverso, criado para explorar tecnologias web enquanto mergulha na narrativa fascinante do Homem-Aranha. 🕷️   
 
