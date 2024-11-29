@@ -202,10 +202,9 @@ a.link-button .label{
 /* Gallery */
 
 .gallery {
-  position: relative; /* Certifique-se de usar position relativa */
-  z-index: 1; /* Não sobreponha outros elementos */
+  position: relative; 
+  z-index: 1; 
   margin-top: 20px; /* Adicione margem superior para separação */
-  padding: 20px;
 }
 
 .gallery ul{
